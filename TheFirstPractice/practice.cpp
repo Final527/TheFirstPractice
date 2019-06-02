@@ -4,3 +4,4 @@ main(){
   printf("Yeah!!");
   getch();
 }
+//balabalabala   bang
